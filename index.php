@@ -9,7 +9,7 @@ session_start();
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mecânica do Taz</title>
+    <title>Biblioteca</title>
     <link rel="stylesheet" href="perfil.css" />
     <link rel="stylesheet" type="text/css" href="login.css">
     
@@ -22,7 +22,7 @@ session_start();
             <div class="container has-text-centered">
                 <div class="column is-4 is-offset-4">
                     <h3 class="title has-text-grey">Sistema de Login</h3>
-                    <h3 class="title has-text-grey"><a  target="_blank">Mecânica</a></h3>
+                    <h3 class="title has-text-grey"><a  target="_blank">Biblioteca</a></h3>
                     <div class="notification is-danger">
                       <p>ERRO: Usuário ou senha inválidos.</p>
                     </div>
